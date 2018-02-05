@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="text_view">Get your Weather Update</string>
+    <string name="button">Get it</string>
+    <string name="getCity">write your city name....</string>
+    <string name="Text_view2">result</string>
+
+</resources>
